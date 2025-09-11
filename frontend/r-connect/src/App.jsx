@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import "./App.css";
-import { useState } from "react";
 
 import DrawSection from "./components/DrawSection"
 import Generator from "./components/Generator"

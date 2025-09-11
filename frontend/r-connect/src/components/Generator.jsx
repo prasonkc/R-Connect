@@ -6,3 +6,5 @@ function Generator() {
     </div>
   );
 }
+
+export default Generator
